@@ -1,0 +1,18 @@
+Data analysis Project details
+
+1- Dataset at least with 5000 record and 10 features
+
+2- EDA as shown in the labs
+
+3- preprocessing on categorical and numerical features (encoding , standardisation, normalisation , feature extraction, remove nulls and duplicates, balance the data if needed ) feel free to make what enhance your data and improve your model results.
+
+4- Machine learning models suitable for the target (Regression or Classification )
+
+4- Comparing the results of the models at least 3 models 
+
+
+5-  Run the same model on different preprocessing for the data or different hyperparameters for the model( you can use hyperparameters tuning algorithms ) and this called trial make at least 3 trails for each model
+
+6-extract the best trial
+
+Note : Make sure that even distribution of workload across the team members
