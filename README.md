@@ -3,25 +3,28 @@ Project Overview
 This project explores customer churn in the telecommunications industry using the Telco Customer Churn dataset. The goal is to clean, preprocess, and analyze the data to identify key factors contributing to customer churn. The insights derived can help businesses develop strategies to improve customer retention.
 
 Key Steps in the Project
-Data Preprocessing:
 
-Loaded the dataset and handled missing values.
-Dropped irrelevant columns (e.g., customer ID).
-Converted categorical variables to appropriate data types.
-Exploratory Data Analysis (EDA):
+## Data Preprocessing:
 
-Used visualizations to understand feature distributions.
-Investigated correlations between variables.
-Examined churn patterns across different customer segments.
-Feature Engineering:
+1- Loaded the dataset and handled missing values.
+2- Dropped irrelevant columns (e.g., customer ID).
+3- Converted categorical variables to appropriate data types.
+ 
+## Exploratory Data Analysis (EDA):
 
-Processed numerical and categorical features for model training.
-Created new relevant features where necessary.
-Modeling & Prediction:
+1- Used visualizations to understand feature distributions.
+2- Investigated correlations between variables.
+3- Examined churn patterns across different customer segments.
+
+## Feature Engineering:
+
+1- Processed numerical and categorical features for model training.
+2- Created new relevant features where necessary.
+3- Modeling & Prediction:
 
 Applied machine learning models to predict customer churn.
 Evaluated models using accuracy, precision, recall, and F1-score.
-Technologies Used
+## Technologies Used
 Python
 Pandas, NumPy for data manipulation
 Seaborn, Matplotlib for visualizations
